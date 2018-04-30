@@ -1,1 +1,3 @@
 REPORT Z_UPLOAD1
+
+Select-options: pa_test type char1.
