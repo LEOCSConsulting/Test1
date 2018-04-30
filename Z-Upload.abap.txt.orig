@@ -1,0 +1,7 @@
+REPORT Z_UPLOAD1
+
+<<<<<<< HEAD
+SELECT-OPTIONS: Test.
+=======
+Select-options: pa_test type char1.
+>>>>>>> origin/Kunde_XY
